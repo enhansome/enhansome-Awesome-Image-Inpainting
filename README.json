@@ -14,7 +14,7 @@
             "last_commit": "2024-12-17T13:49:54Z",
             "owner": "TencentARC",
             "repo": "BrushNet",
-            "stars": 1742
+            "stars": 1743
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-02-19T12:07:56Z",
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6880
+            "stars": 6883
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2024-11-12T10:41:30Z",
             "owner": "Picsart-AI-Research",
             "repo": "MI-GAN",
-            "stars": 678
+            "stars": 680
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2025-02-05T08:41:52Z",
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10189
+            "stars": 10188
           }
         },
         {
@@ -626,7 +626,7 @@
             "last_commit": "2024-08-30T23:48:56Z",
             "owner": "vt-vl-lab",
             "repo": "3d-photo-inpainting",
-            "stars": 7096
+            "stars": 7095
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2025-06-18T03:59:02Z",
             "owner": "researchmm",
             "repo": "STTN",
-            "stars": 555
+            "stars": 556
           }
         },
         {
@@ -960,7 +960,7 @@
             "last_commit": "2024-06-27T08:18:38Z",
             "owner": "JiahuiYu",
             "repo": "generative_inpainting",
-            "stars": 3462
+            "stars": 3464
           }
         },
         {
@@ -1120,7 +1120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:27:22.340Z",
+    "last_updated": "2026-08-14T15:12:03.816Z",
     "original_repository": "zengyh1900/Awesome-Image-Inpainting",
     "original_repository_sha": "96de1852fb3ced75729edb5cc7f04477f4b2445c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Image-Inpainting",
