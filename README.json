@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2025-12-20T14:19:00Z",
+            "last_commit": "2026-08-15T03:53:32Z",
             "owner": "open-mmlab",
             "repo": "PowerPaint",
             "stars": 1100
@@ -90,7 +90,7 @@
             "last_commit": "2025-02-19T12:07:56Z",
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6883
+            "stars": 6887
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2025-02-05T08:41:52Z",
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10188
+            "stars": 10191
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2023-04-07T08:55:34Z",
             "owner": "MCG-NKU",
             "repo": "E2FGVI",
-            "stars": 1160
+            "stars": 1161
           }
         },
         {
@@ -278,7 +278,7 @@
             "last_commit": "2024-03-05T02:08:51Z",
             "owner": "ewrfcas",
             "repo": "MAE-FAR",
-            "stars": 91
+            "stars": 92
           }
         },
         {
@@ -960,7 +960,7 @@
             "last_commit": "2024-06-27T08:18:38Z",
             "owner": "JiahuiYu",
             "repo": "generative_inpainting",
-            "stars": 3464
+            "stars": 3465
           }
         },
         {
@@ -1120,7 +1120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:12:03.816Z",
+    "last_updated": "2026-08-15T14:44:30.731Z",
     "original_repository": "zengyh1900/Awesome-Image-Inpainting",
     "original_repository_sha": "96de1852fb3ced75729edb5cc7f04477f4b2445c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Image-Inpainting",
