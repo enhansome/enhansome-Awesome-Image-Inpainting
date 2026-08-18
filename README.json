@@ -28,7 +28,7 @@
             "last_commit": "2026-08-15T03:53:32Z",
             "owner": "open-mmlab",
             "repo": "PowerPaint",
-            "stars": 1100
+            "stars": 1101
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-02-19T12:07:56Z",
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6889
+            "stars": 6891
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2025-02-05T08:41:52Z",
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10195
+            "stars": 10200
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2023-04-27T03:47:44Z",
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8086
+            "stars": 8088
           }
         },
         {
@@ -626,7 +626,7 @@
             "last_commit": "2024-08-30T23:48:56Z",
             "owner": "vt-vl-lab",
             "repo": "3d-photo-inpainting",
-            "stars": 7095
+            "stars": 7093
           }
         },
         {
@@ -640,7 +640,7 @@
             "last_commit": "2026-04-04T07:56:26Z",
             "owner": "ApolloScapeAuto",
             "repo": "dataset-api",
-            "stars": 618
+            "stars": 619
           }
         },
         {
@@ -1036,7 +1036,7 @@
             "last_commit": "2018-05-29T22:01:59Z",
             "owner": "leehomyc",
             "repo": "Faster-High-Res-Neural-Inpainting",
-            "stars": 1287
+            "stars": 1286
           }
         },
         {
@@ -1120,7 +1120,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:44:53.580Z",
+    "last_updated": "2026-08-18T14:57:55.327Z",
     "original_repository": "zengyh1900/Awesome-Image-Inpainting",
     "original_repository_sha": "96de1852fb3ced75729edb5cc7f04477f4b2445c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Image-Inpainting",
