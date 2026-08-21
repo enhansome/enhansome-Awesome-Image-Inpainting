@@ -30,7 +30,7 @@
             "last_commit": "2026-08-15T03:53:32Z",
             "owner": "open-mmlab",
             "repo": "PowerPaint",
-            "stars": 1103
+            "stars": 1104
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-08-14T11:24:09Z",
             "owner": "naver",
             "repo": "poc",
-            "stars": 24
+            "stars": 22
           }
         }
       ],
@@ -96,7 +96,7 @@
             "last_commit": "2025-02-19T12:07:56Z",
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6897
+            "stars": 6899
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2025-02-05T08:41:52Z",
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10203
+            "stars": 10205
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2022-08-20T13:01:44Z",
             "owner": "andreas128",
             "repo": "RePaint",
-            "stars": 2267
+            "stars": 2268
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2024-07-02T12:35:44Z",
             "owner": "fenglinglwb",
             "repo": "MAT",
-            "stars": 981
+            "stars": 980
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2023-03-23T23:52:03Z",
             "owner": "tsingqguo",
             "repo": "misf",
-            "stars": 112
+            "stars": 110
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2023-03-07T02:26:59Z",
             "owner": "raywzy",
             "repo": "ICT",
-            "stars": 330
+            "stars": 329
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2023-04-27T03:47:44Z",
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8088
+            "stars": 8087
           }
         },
         {
@@ -1196,7 +1196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:01:03.872Z",
+    "last_updated": "2026-08-21T14:59:26.975Z",
     "original_repository": "zengyh1900/Awesome-Image-Inpainting",
     "original_repository_id": 146686946,
     "original_repository_sha": "96de1852fb3ced75729edb5cc7f04477f4b2445c",
