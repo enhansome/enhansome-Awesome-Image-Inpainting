@@ -96,7 +96,7 @@
             "last_commit": "2025-02-19T12:07:56Z",
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6901
+            "stars": 6903
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2024-11-12T10:41:30Z",
             "owner": "Picsart-AI-Research",
             "repo": "MI-GAN",
-            "stars": 683
+            "stars": 684
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2025-02-05T08:41:52Z",
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10209
+            "stars": 10210
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2024-02-23T04:21:56Z",
             "owner": "DQiaole",
             "repo": "ZITS_inpainting",
-            "stars": 393
+            "stars": 394
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2023-04-27T03:47:44Z",
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8087
+            "stars": 8088
           }
         },
         {
@@ -669,7 +669,7 @@
             "last_commit": "2024-08-30T23:48:56Z",
             "owner": "vt-vl-lab",
             "repo": "3d-photo-inpainting",
-            "stars": 7093
+            "stars": 7092
           }
         },
         {
@@ -1196,7 +1196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:43:28.595Z",
+    "last_updated": "2026-08-23T14:45:35.532Z",
     "original_repository": "zengyh1900/Awesome-Image-Inpainting",
     "original_repository_id": 146686946,
     "original_repository_sha": "96de1852fb3ced75729edb5cc7f04477f4b2445c",
