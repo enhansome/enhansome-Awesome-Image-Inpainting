@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "AAAI (image) FreeInpaint: Tuning-free Prompt Alignment and Visual Rationality Enhancement in Image Inpainting",
+          "description": ". [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1096448407,
+            "language": "Python",
+            "last_commit": "2025-12-30T11:03:19Z",
+            "owner": "CharlesGong12",
+            "repo": "FreeInpaint",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Year 2026"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CVPR (image) RAD: Region-Aware Diffusion Models for Image Inpainting",
+          "description": ". [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1012937466,
+            "language": "Python",
+            "last_commit": "2026-01-24T09:37:46Z",
+            "owner": "srk1995",
+            "repo": "RAD",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Year 2025"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "ECCV (image) BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion",
           "description": ". [code]",
           "children": [],
@@ -30,7 +72,7 @@
             "last_commit": "2026-08-15T03:53:32Z",
             "owner": "open-mmlab",
             "repo": "PowerPaint",
-            "stars": 1104
+            "stars": 1105
           }
         },
         {
@@ -96,7 +138,7 @@
             "last_commit": "2025-02-19T12:07:56Z",
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6903
+            "stars": 6907
           }
         },
         {
@@ -162,7 +204,7 @@
             "last_commit": "2025-02-05T08:41:52Z",
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10210
+            "stars": 10213
           }
         },
         {
@@ -177,7 +219,7 @@
             "last_commit": "2022-08-20T13:01:44Z",
             "owner": "andreas128",
             "repo": "RePaint",
-            "stars": 2269
+            "stars": 2267
           }
         },
         {
@@ -237,7 +279,7 @@
             "last_commit": "2024-02-07T14:31:15Z",
             "owner": "hitachinsk",
             "repo": "FGT",
-            "stars": 351
+            "stars": 350
           }
         },
         {
@@ -915,7 +957,7 @@
             "last_commit": "2020-08-12T06:57:20Z",
             "owner": "KumapowerLIU",
             "repo": "CSA-inpainting",
-            "stars": 280
+            "stars": 279
           }
         },
         {
@@ -1193,10 +1235,52 @@
         }
       ],
       "title": "Year 2016"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NeurIPS (image) Shepard convolutional neural networks",
+          "description": ". [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43007129,
+            "language": "Matlab",
+            "last_commit": "2016-04-02T09:33:02Z",
+            "owner": "jimmy-ren",
+            "repo": "vcnn_double-bladed",
+            "stars": 142
+          }
+        }
+      ],
+      "title": "Year 2015"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TOG (image) Image completion using planar structure guidance",
+          "description": ". [code] [project]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25012703,
+            "language": "Matlab",
+            "last_commit": "2015-11-30T01:37:18Z",
+            "owner": "jbhuang0604",
+            "repo": "StructCompletion",
+            "stars": 110
+          }
+        }
+      ],
+      "title": "Year 2014"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:45:35.532Z",
+    "last_updated": "2026-08-24T14:10:00.753Z",
     "original_repository": "zengyh1900/Awesome-Image-Inpainting",
     "original_repository_id": 146686946,
     "original_repository_sha": "96de1852fb3ced75729edb5cc7f04477f4b2445c",
