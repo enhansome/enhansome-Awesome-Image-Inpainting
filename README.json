@@ -72,7 +72,7 @@
             "last_commit": "2026-08-15T03:53:32Z",
             "owner": "open-mmlab",
             "repo": "PowerPaint",
-            "stars": 1105
+            "stars": 1107
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2025-02-19T12:07:56Z",
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6906
+            "stars": 6908
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2025-02-05T08:41:52Z",
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10214
+            "stars": 10216
           }
         },
         {
@@ -1280,7 +1280,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:00:19.413Z",
+    "last_updated": "2026-08-25T15:10:41.198Z",
     "original_repository": "zengyh1900/Awesome-Image-Inpainting",
     "original_repository_id": 146686946,
     "original_repository_sha": "96de1852fb3ced75729edb5cc7f04477f4b2445c",
