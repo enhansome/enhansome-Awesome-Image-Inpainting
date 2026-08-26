@@ -138,7 +138,7 @@
             "last_commit": "2025-02-19T12:07:56Z",
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6908
+            "stars": 6916
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2025-02-05T08:41:52Z",
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10216
+            "stars": 10217
           }
         },
         {
@@ -1280,7 +1280,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:10:41.198Z",
+    "last_updated": "2026-08-26T15:56:57.742Z",
     "original_repository": "zengyh1900/Awesome-Image-Inpainting",
     "original_repository_id": 146686946,
     "original_repository_sha": "96de1852fb3ced75729edb5cc7f04477f4b2445c",
