@@ -72,7 +72,7 @@
             "last_commit": "2026-08-15T03:53:32Z",
             "owner": "open-mmlab",
             "repo": "PowerPaint",
-            "stars": 1107
+            "stars": 1108
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2025-02-19T12:07:56Z",
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6916
+            "stars": 6917
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2025-02-05T08:41:52Z",
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10221
+            "stars": 10222
           }
         },
         {
@@ -1280,7 +1280,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:28:47.173Z",
+    "last_updated": "2026-08-27T23:50:06.619Z",
     "original_repository_info": {
       "archived": false,
       "id": 146686946,
