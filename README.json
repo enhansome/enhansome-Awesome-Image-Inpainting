@@ -204,7 +204,7 @@
             "last_commit": "2025-02-05T08:41:52Z",
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10217
+            "stars": 10221
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2022-08-20T13:01:44Z",
             "owner": "andreas128",
             "repo": "RePaint",
-            "stars": 2267
+            "stars": 2268
           }
         },
         {
@@ -309,7 +309,7 @@
             "last_commit": "2024-09-23T02:31:55Z",
             "owner": "liuqk3",
             "repo": "PUT",
-            "stars": 202
+            "stars": 203
           }
         },
         {
@@ -1280,9 +1280,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T15:56:57.742Z",
-    "original_repository": "zengyh1900/Awesome-Image-Inpainting",
-    "original_repository_id": 146686946,
+    "last_updated": "2026-08-27T11:28:47.173Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 146686946,
+      "language": "Python",
+      "last_commit": "2026-02-09T13:30:33Z",
+      "owner": "zengyh1900",
+      "repo": "Awesome-Image-Inpainting",
+      "stars": 2179
+    },
     "original_repository_sha": "96de1852fb3ced75729edb5cc7f04477f4b2445c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Image-Inpainting",
     "enhanced_repository_description": null,
