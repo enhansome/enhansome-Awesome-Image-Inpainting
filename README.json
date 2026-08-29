@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI 2026] FreeInpaint: Tuning-free Prompt Alignment and Visual Rationality Enhancement in Image Inpainting",
+            "homepage": null,
             "id": 1096448407,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-30T11:03:19Z",
+            "open_issues": 4,
             "owner": "CharlesGong12",
             "repo": "FreeInpaint",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         }
@@ -32,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for the CVPR 2025 paper \"RAD:Region-Aware Diffusion Models for Image Inpainting\".",
+            "homepage": null,
             "id": 1012937466,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-24T09:37:46Z",
+            "open_issues": 2,
             "owner": "srk1995",
             "repo": "RAD",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         }
@@ -54,12 +64,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2024] The official implementation of paper \"BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion\"",
+            "homepage": "https://tencentarc.github.io/BrushNet/",
             "id": 769852109,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-17T13:49:54Z",
+            "open_issues": 56,
             "owner": "TencentARC",
             "repo": "BrushNet",
-            "stars": 1745
+            "stars": 1745,
+            "topics": [
+              "diffusion",
+              "diffusion-models",
+              "eccv",
+              "eccv2024",
+              "image-inpainting",
+              "text-to-image"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -70,12 +92,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2024] PowerPaint, a versatile image inpainting model that supports text-guided object inpainting, object removal, image outpainting and shape-guided object inpainting with only a single model. 一个高质量多功能的图像修补模型，可以同时支持插入物体、移除物体、图像扩展、形状可控的物体生成，只需要一个模型",
+            "homepage": "https://powerpaint.github.io/",
             "id": 727699569,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-15T03:53:32Z",
+            "open_issues": 54,
             "owner": "open-mmlab",
             "repo": "PowerPaint",
-            "stars": 1108
+            "stars": 1108,
+            "topics": [
+              "aigc",
+              "generation",
+              "image-editing",
+              "image-inpainting",
+              "stable-diffusion"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -86,12 +119,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(CVPR 2024) Official code for paper \"Towards Language-Driven Video Inpainting via Multimodal Large Language Models\"",
+            "homepage": "https://arxiv.org/abs/2401.10226",
             "id": 731936093,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-17T02:36:18Z",
+            "open_issues": 11,
             "owner": "jianzongwu",
             "repo": "Language-Driven-Video-Inpainting",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -102,12 +140,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of ImprovingText-guided ObjectInpainting with SemanticPre-inpainting in ECCV 2024 ",
+            "homepage": null,
             "id": 825272255,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-11T14:53:28Z",
+            "open_issues": 7,
             "owner": "Nnn-s",
             "repo": "CATdiffusion",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -118,12 +161,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper \"Placing Objects in Context via Inpainting for Out-of-distribution Segmentation\", ECCV 2024",
+            "homepage": null,
             "id": 761052301,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-14T11:24:09Z",
+            "open_issues": 2,
             "owner": "naver",
             "repo": "poc",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         }
@@ -140,12 +188,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting",
+            "homepage": "https://shangchenzhou.com/projects/ProPainter/",
             "id": 685984512,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-19T12:07:56Z",
+            "open_issues": 80,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6917
+            "stars": 6917,
+            "topics": [
+              "object-removal",
+              "video-completion",
+              "video-inpainting",
+              "video-outpainting",
+              "watermark-removal"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -156,12 +215,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2023] MI-GAN: A Simple Baseline for Image Inpainting on Mobile Devices",
+            "homepage": null,
             "id": 679286121,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-11-12T10:41:30Z",
+            "open_issues": 12,
             "owner": "Picsart-AI-Research",
             "repo": "MI-GAN",
-            "stars": 684
+            "stars": 684,
+            "topics": [
+              "image-inpainting",
+              "knowledge-distillation",
+              "mi-gan",
+              "mobile-inpainting",
+              "object-removal",
+              "re-parameterization"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -172,12 +243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the code repo for ICCV23 paper Virtual Try-On with Garment-Pose Keypoints Guided Inpainting",
+            "homepage": null,
             "id": 678917557,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-14T17:19:35Z",
+            "open_issues": 10,
             "owner": "lizhi-ntu",
             "repo": "KGI",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -188,12 +264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NÜWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN",
+            "homepage": null,
             "id": 611594739,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-24T09:25:55Z",
+            "open_issues": 4,
             "owner": "kodenii",
             "repo": "NUWA-LIP",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         }
@@ -210,12 +291,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022",
+            "homepage": "https://advimman.github.io/lama-project/",
             "id": 401446691,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-05T08:41:52Z",
+            "open_issues": 125,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10224
+            "stars": 10224,
+            "topics": [
+              "cnn",
+              "colab",
+              "colab-notebook",
+              "computer-vision",
+              "deep-learning",
+              "deep-neural-networks",
+              "fourier",
+              "fourier-convolutions",
+              "fourier-transform",
+              "gan",
+              "generative-adversarial-network",
+              "generative-adversarial-networks",
+              "high-resolution",
+              "image-inpainting",
+              "inpainting",
+              "inpainting-algorithm",
+              "inpainting-methods",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -226,12 +331,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official PyTorch Code and Models of \"RePaint: Inpainting using Denoising Diffusion Probabilistic Models\", CVPR 2022",
+            "homepage": null,
             "id": 433054511,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-08-20T13:01:44Z",
+            "open_issues": 48,
             "owner": "andreas128",
             "repo": "RePaint",
-            "stars": 2268
+            "stars": 2268,
+            "topics": [
+              "cvpr2022",
+              "diffusion-models",
+              "inpainting"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -242,12 +356,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for \"Towards An End-to-End Framework for Flow-Guided Video Inpainting\" (CVPR2022)",
+            "homepage": null,
             "id": 472297798,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-07T08:55:34Z",
+            "open_issues": 46,
             "owner": "MCG-NKU",
             "repo": "E2FGVI",
-            "stars": 1161
+            "stars": 1161,
+            "topics": [
+              "cvpr2022",
+              "inpainting",
+              "object-removal",
+              "optical-flow",
+              "video-inpainting"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -258,12 +383,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MAT: Mask-Aware Transformer for Large Hole Image Inpainting",
+            "homepage": null,
             "id": 470656359,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-02T12:35:44Z",
+            "open_issues": 83,
             "owner": "fenglinglwb",
             "repo": "MAT",
-            "stars": 981
+            "stars": 981,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -274,12 +404,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2022] Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding",
+            "homepage": null,
             "id": 465143484,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-23T04:21:56Z",
+            "open_issues": 6,
             "owner": "DQiaole",
             "repo": "ZITS_inpainting",
-            "stars": 394
+            "stars": 394,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -290,12 +425,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2022] Flow-Guided Transformer for Video Inpainting",
+            "homepage": "https://hitachinsk.github.io/publication/2022-10-01-Flow-Guided-Transformer-for-Video-Inpainting",
             "id": 516041835,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-02-07T14:31:15Z",
+            "open_issues": 10,
             "owner": "hitachinsk",
             "repo": "FGT",
-            "stars": 350
+            "stars": 350,
+            "topics": [
+              "eccv2022",
+              "video-inpainting"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -306,12 +449,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CM-GAN for Image Inpainting",
+            "homepage": null,
             "id": 472946044,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-14T18:11:43Z",
+            "open_issues": 11,
             "owner": "htzheng",
             "repo": "CM-GAN-Inpainting",
-            "stars": 261
+            "stars": 261,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -322,12 +470,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Paper 'Transformer based Pluralistic Image Completion with Reduced Information Loss' in TPAMI 2024 and 'Reduce Information Loss in Transformers for Pluralistic Image Inpainting' in CVPR2022",
+            "homepage": null,
             "id": 492166555,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-23T02:31:55Z",
+            "open_issues": 32,
             "owner": "liuqk3",
             "repo": "PUT",
-            "stars": 203
+            "stars": 203,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -338,12 +491,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 465173953,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-23T23:52:03Z",
+            "open_issues": 9,
             "owner": "tsingqguo",
             "repo": "misf",
-            "stars": 110
+            "stars": 110,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -354,12 +512,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes of Learning Prior Feature and Attention Enhanced Image Inpainting (ECCV2022)",
+            "homepage": null,
             "id": 521471064,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-05T02:08:51Z",
+            "open_issues": 7,
             "owner": "ewrfcas",
             "repo": "MAE-FAR",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -370,12 +533,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2022] Inertia-Guided Flow Completion and Style Fusion for Video Inpainting",
+            "homepage": "https://hitachinsk.github.io/publication/2022-06-01-Inertia-Guided-Flow-Completion-and-Style-Fusion-for-Video-Inpainting",
             "id": 473854278,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-01-28T09:05:39Z",
+            "open_issues": 3,
             "owner": "hitachinsk",
             "repo": "ISVI",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "cvpr2022",
+              "video-inpainting"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -386,12 +557,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Perceptual Artifacts Localization for Inpainting, ECCV 2022 (Oral)",
+            "homepage": null,
             "id": 513625458,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-25T03:46:31Z",
+            "open_issues": 0,
             "owner": "owenzlz",
             "repo": "PAL4Inpaint",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -402,12 +578,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV22] Unbiased Multi-Modality Guidance for Image Inpainting",
+            "homepage": null,
             "id": 513508754,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-07T05:43:25Z",
+            "open_issues": 6,
             "owner": "yeates",
             "repo": "MMT",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -418,12 +599,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 366387534,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-01T16:52:56Z",
+            "open_issues": 4,
             "owner": "MichiganCOG",
             "repo": "devil",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -434,12 +620,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inpainting at Modern Camera Resolution by Guided PatchMatch with Auto-Curation, ECCV 2022",
+            "homepage": null,
             "id": 514963199,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-04T19:58:12Z",
+            "open_issues": 5,
             "owner": "owenzlz",
             "repo": "SuperCAF",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -450,12 +641,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 515607995,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-25T02:26:53Z",
+            "open_issues": 8,
             "owner": "dengyecode",
             "repo": "hourglassattention",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -466,12 +662,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Error Compensation Framework for Flow-Guided Video Inpainting ",
+            "homepage": null,
             "id": 513043289,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-08-09T01:22:37Z",
+            "open_issues": 2,
             "owner": "JaeYeonKang",
             "repo": "ECFVI",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -482,12 +683,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV22] High-Fidelity Image Inpainting with GAN Inversion",
+            "homepage": null,
             "id": 511449203,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-08-05T02:40:21Z",
+            "open_issues": 2,
             "owner": "yeates",
             "repo": "InvertFill",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         }
@@ -504,12 +710,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2021, Spotlight] Large Scale Image Completion via Co-Modulated Generative Adversarial Networks",
+            "homepage": null,
             "id": 349194010,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-01-03T12:01:09Z",
+            "open_issues": 46,
             "owner": "zsyzzsoft",
             "repo": "co-mod-gan",
-            "stars": 472
+            "stars": 472,
+            "topics": [
+              "gans",
+              "generative-adversarial-network",
+              "iclr2021",
+              "image-completion",
+              "image-inpainting",
+              "image-to-image-translation",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -520,12 +739,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-Fidelity Pluralistic Image Completion with Transformers (ICCV 2021)",
+            "homepage": null,
             "id": 336944551,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-07T02:26:59Z",
+            "open_issues": 28,
             "owner": "raywzy",
             "repo": "ICT",
-            "stars": 329
+            "stars": 329,
+            "topics": [
+              "iccv2021",
+              "image-completion",
+              "image-inpainting",
+              "pytorch",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -536,12 +766,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2021]: IIVI: Internal Video Inpainting by Implicit Long-range Propagation ",
+            "homepage": "https://tengfei-wang.github.io/Implicit-Internal-Video-Inpainting/",
             "id": 388658707,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-18T14:11:45Z",
+            "open_issues": 8,
             "owner": "Tengfei-Wang",
             "repo": "Implicit-Internal-Video-Inpainting",
-            "stars": 259
+            "stars": 259,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "deeplearning",
+              "image-inpainting",
+              "object-removal",
+              "video-editing",
+              "video-inpainting",
+              "video-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -552,12 +796,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CR-Fill: Generative Image Inpainting with Auxiliary Contextual Reconstruction. ICCV 2021",
+            "homepage": null,
             "id": 312774814,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-12T19:38:59Z",
+            "open_issues": 22,
             "owner": "zengxianyu",
             "repo": "crfill",
-            "stars": 241
+            "stars": 241,
+            "topics": [
+              "gan",
+              "generative-adversarial-network",
+              "generative-adversarial-networks",
+              "iccv2021",
+              "image-completion",
+              "image-inpainting",
+              "inpainting",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -568,12 +826,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2021] Image Inpainting via Conditional Texture and Structure Dual Generation",
+            "homepage": null,
             "id": 396211675,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-04T20:59:26Z",
+            "open_issues": 25,
             "owner": "xiefan-guo",
             "repo": "ctsdg",
-            "stars": 205
+            "stars": 205,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -584,12 +847,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CVPR 2021: \"Generating Diverse Structure for Image Inpainting With Hierarchical VQ-VAE\"",
+            "homepage": null,
             "id": 347274838,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-07-11T04:31:09Z",
+            "open_issues": 14,
             "owner": "USTC-JialunPeng",
             "repo": "Diverse-Structure-Inpainting",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "attention",
+              "autoregressive-neural-networks",
+              "generative-adversarial-networks",
+              "inpainting",
+              "multimodal",
+              "tensorflow",
+              "vq-vae"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -600,12 +876,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official pytorch code of PD-GAN: Probabilistic Diverse GAN for Image Inpainting (CVPR 2021)",
+            "homepage": null,
             "id": 345090641,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-08-18T15:28:31Z",
+            "open_issues": 8,
             "owner": "KumapowerLIU",
             "repo": "PD-GAN",
-            "stars": 148
+            "stars": 148,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -616,12 +897,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "official Pytorch implementation of ICCV 2021 paper FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting.",
+            "homepage": null,
             "id": 402953286,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-10T09:15:44Z",
+            "open_issues": 12,
             "owner": "ruiliu-ai",
             "repo": "FuseFormer",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -632,12 +918,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2021] EII: Image Inpainting with External-Internal Learning and Monochromic Bottleneck",
+            "homepage": "https://tengfei-wang.github.io/EII/index.html",
             "id": 352010837,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-01-09T16:15:42Z",
+            "open_issues": 2,
             "owner": "Tengfei-Wang",
             "repo": "external-internal-inpainting",
-            "stars": 109
+            "stars": 109,
+            "topics": [
+              "colorization",
+              "computer-vision",
+              "image-inpainting",
+              "image-processing",
+              "image-synthesis",
+              "inpainting",
+              "internal-learning",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -648,12 +948,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official repo for TransFill:  Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations at CVPR'21. According to some product reasons, we are not planning to release the training/testing codes and models. However, we will release the dataset and the scripts to prepare the dataset. ",
+            "homepage": null,
             "id": 356962168,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-08-05T03:33:58Z",
+            "open_issues": 4,
             "owner": "yzhouas",
             "repo": "TransFill-Reference-Inpainting",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -664,12 +969,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(WACV 2021) Hyperrealistic Image Inpainting with Hypergraphs",
+            "homepage": null,
             "id": 311342018,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-02T19:41:09Z",
+            "open_issues": 0,
             "owner": "GouravWadhwa",
             "repo": "Hypergraphs-Image-Inpainting",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -680,12 +990,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning a Sketch Tensor Space for Image Inpainting of Man-made Scenes (ICCV 2021)",
+            "homepage": null,
             "id": 352028899,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-03T08:27:55Z",
+            "open_issues": 9,
             "owner": "ewrfcas",
             "repo": "MST_inpainting",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -696,12 +1011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2021] Official Implementation for Progressive Temporal Feature Alignment Network for Video Inpainting",
+            "homepage": null,
             "id": 351247882,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-08-11T23:44:49Z",
+            "open_issues": 9,
             "owner": "MaureenZOU",
             "repo": "TSAM",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -712,12 +1032,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 396388217,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-02-17T19:39:46Z",
+            "open_issues": 1,
             "owner": "donglao",
             "repo": "videoinpainting",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         }
@@ -734,12 +1059,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image restoration with neural networks but without learning.",
+            "homepage": "https://dmitryulyanov.github.io/deep_image_prior",
             "id": 112535474,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-27T03:47:44Z",
+            "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8089
+            "stars": 8089,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -750,12 +1080,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting",
+            "homepage": "https://shihmengli.github.io/3D-Photo-Inpainting/",
             "id": 254127753,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-30T23:48:56Z",
+            "open_issues": 108,
             "owner": "vt-vl-lab",
             "repo": "3d-photo-inpainting",
-            "stars": 7093
+            "stars": 7093,
+            "topics": [
+              "3d-photo",
+              "novel-view-synthesis"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -766,12 +1104,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ApolloScape Open Dataset for Autonomous Driving and its Application.",
+            "homepage": "https://apolloscapeauto.github.io/dataset-api/",
             "id": 138554776,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-04T07:56:26Z",
+            "open_issues": 87,
             "owner": "ApolloScapeAuto",
             "repo": "dataset-api",
-            "stars": 619
+            "stars": 619,
+            "topics": [
+              "3d-car-instance",
+              "3d-lidar",
+              "apolloscape-dataset",
+              "autonomous-driving",
+              "dataset",
+              "trajectory-prediction",
+              "video-inpainting"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -782,12 +1133,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV'2020] STTN: Learning Joint Spatial-Temporal Transformations for Video Inpainting",
+            "homepage": "https://arxiv.org/abs/2007.10247",
             "id": 278659930,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-06-18T03:59:02Z",
+            "open_issues": 12,
             "owner": "researchmm",
             "repo": "STTN",
-            "stars": 557
+            "stars": 557,
+            "topics": [
+              "completing-videos",
+              "spatial-temporal",
+              "transformer",
+              "video-inpainting"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -798,12 +1159,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rethinking Image Inpainting via a Mutual Encoder Decoder with Feature Equalizations. ECCV 2020 Oral",
+            "homepage": null,
             "id": 277328886,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-04-03T07:32:44Z",
+            "open_issues": 28,
             "owner": "KumapowerLIU",
             "repo": "Rethinking-Inpainting-MEDFE",
-            "stars": 373
+            "stars": 373,
+            "topics": [
+              "activation-functions",
+              "eccv-2020",
+              "generative-adversarial-network",
+              "inpainting"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -814,12 +1185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Region Normalization for Image Inpainting, accepted by AAAI-2020",
+            "homepage": null,
             "id": 222373296,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-10T13:11:12Z",
+            "open_issues": 4,
             "owner": "geekyutao",
             "repo": "RN",
-            "stars": 192
+            "stars": 192,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -830,12 +1206,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code of AAAI 2020 paper 'Learning to Incorporate Structure Knowledge for Image Inpainting'",
+            "homepage": null,
             "id": 222045677,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-12-30T14:45:46Z",
+            "open_issues": 5,
             "owner": "YoungGod",
             "repo": "sturcture-inpainting",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "attention-mechanism",
+              "image-completion",
+              "image-inpainting",
+              "pyramid-structure-loss",
+              "structure-embedding"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -846,12 +1233,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VCNet: a robust approach to blind image inpainting, ECCV2020",
+            "homepage": null,
             "id": 281379260,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-05-11T02:28:25Z",
+            "open_issues": 7,
             "owner": "shepnerd",
             "repo": "blindinpainting_vcnet",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -862,12 +1254,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 247786068,
             "language": null,
+            "license": null,
             "last_commit": "2020-11-27T19:30:11Z",
+            "open_issues": 1,
             "owner": "Ascend-Huawei",
             "repo": "Ascend-Canada",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         }
@@ -884,12 +1281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color (ICCV2019)",
+            "homepage": null,
             "id": 170284360,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-20T07:20:41Z",
+            "open_issues": 45,
             "owner": "run-youngjoo",
             "repo": "SC-FEGAN",
-            "stars": 3329
+            "stars": 3329,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -900,12 +1302,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EdgeConnect: Structure Guided Image Inpainting using Edge Prediction, ICCV  2019 https://arxiv.org/abs/1901.00212 ",
+            "homepage": "http://openaccess.thecvf.com/content_ICCVW_2019/html/AIM/Nazeri_EdgeConnect_Structure_Guided_Image_Inpainting_using_Edge_Prediction_ICCVW_2019_paper.html",
             "id": 161960205,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-03T16:03:43Z",
+            "open_issues": 108,
             "owner": "knazeri",
             "repo": "edge-connect",
-            "stars": 2620
+            "stars": 2620,
+            "topics": [
+              "canny-edge-detection",
+              "deep-learning",
+              "edgeconnect",
+              "gans",
+              "generative-adversarial-network",
+              "image-inpainting",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -916,12 +1331,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pytorch implementation for \"Deep Flow-Guided Video Inpainting\"(CVPR'19)",
+            "homepage": "https://nbei.github.io/video-inpainting.html",
             "id": 177785721,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-08T05:52:59Z",
+            "open_issues": 60,
             "owner": "nbei",
             "repo": "Deep-Flow-Guided-Video-Inpainting",
-            "stars": 2375
+            "stars": 2375,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -932,12 +1352,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2019]: Pluralistic Image Completion",
+            "homepage": null,
             "id": 171669032,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-29T06:54:51Z",
+            "open_issues": 10,
             "owner": "lyndonzheng",
             "repo": "Pluralistic-Inpainting",
-            "stars": 690
+            "stars": 690,
+            "topics": [
+              "generative-adversarial-networks",
+              "image-completion",
+              "inpainting",
+              "multimodal"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -948,12 +1378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official pytorch implementation for \"Deep Video Inpainting\" (CVPR 2019)",
+            "homepage": null,
             "id": 188032974,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-12-10T08:42:54Z",
+            "open_issues": 15,
             "owner": "mcahny",
             "repo": "Deep-Video-Inpainting",
-            "stars": 522
+            "stars": 522,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -964,12 +1399,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'2019] PEN-Net: Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting ",
+            "homepage": "https://arxiv.org/abs/1904.07475",
             "id": 178325662,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-11-29T20:51:39Z",
+            "open_issues": 24,
             "owner": "researchmm",
             "repo": "PEN-Net-for-Inpainting",
-            "stars": 359
+            "stars": 359,
+            "topics": [
+              "attention",
+              "attention-transfer-network",
+              "image-inpainting",
+              "pen-net"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -980,12 +1425,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Pytorch implementation of \"Learnable Gated Temporal Shift Module for Deep Video Inpainting. Chang et al. BMVC 2019.\"  and the FVI dataset in \"Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN, Chang et al. ICCV 2019\"",
+            "homepage": "https://arxiv.org/abs/1907.01131",
             "id": 195779932,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-02-29T17:02:18Z",
+            "open_issues": 7,
             "owner": "amjltc295",
             "repo": "Free-Form-Video-Inpainting",
-            "stars": 344
+            "stars": 344,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -996,12 +1446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Pytorch implementation of \"Learnable Gated Temporal Shift Module for Deep Video Inpainting. Chang et al. BMVC 2019.\"  and the FVI dataset in \"Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN, Chang et al. ICCV 2019\"",
+            "homepage": "https://arxiv.org/abs/1907.01131",
             "id": 195779932,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-02-29T17:02:18Z",
+            "open_issues": 7,
             "owner": "amjltc295",
             "repo": "Free-Form-Video-Inpainting",
-            "stars": 344
+            "stars": 344,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -1012,12 +1467,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coherent Semantic Attention for image inpainting(ICCV 2019)",
+            "homepage": null,
             "id": 195164738,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-08-12T06:57:20Z",
+            "open_issues": 31,
             "owner": "KumapowerLIU",
             "repo": "CSA-inpainting",
-            "stars": 279
+            "stars": 279,
+            "topics": [
+              "attention-mechanism",
+              "generative-adversarial-network",
+              "iccv2019",
+              "image-inpainting",
+              "jupyter-notebook"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -1028,12 +1494,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for paper \"StructureFlow: Image Inpainting via Structure-aware Appearance Flow\"",
+            "homepage": null,
             "id": 200766654,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-06-02T05:34:03Z",
+            "open_issues": 13,
             "owner": "RenYurui",
             "repo": "StructureFlow",
-            "stars": 231
+            "stars": 231,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -1044,12 +1515,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":art: Deep Fusion Network for Image Completion - ACMMM 2019",
+            "homepage": "https://hongxin2019.github.io/pdf/mm-2019-dfnet.pdf",
             "id": 180760279,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-20T02:11:07Z",
+            "open_issues": 0,
             "owner": "hughplay",
             "repo": "DFNet",
-            "stars": 217
+            "stars": 217,
+            "topics": [
+              "acmmm2019",
+              "deep-learning",
+              "dfnet",
+              "edgeconnect",
+              "fusion-block",
+              "image-completion",
+              "image-inpainting",
+              "inpainting",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -1060,12 +1546,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Pytorch implementation of Copy-and-Paste Networks for Deep Video Inpainting (ICCV 2019)",
+            "homepage": null,
             "id": 202882056,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-10-16T09:17:48Z",
+            "open_issues": 4,
             "owner": "shleecs",
             "repo": "Copy-and-Paste-Networks-for-Deep-Video-Inpainting",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "iccv",
+              "iccv2019",
+              "synthesis",
+              "video-inpainting"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -1076,12 +1572,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Onion-Peel Networks for Deep Video Completion, ICCV 2019",
+            "homepage": "https://sites.google.com/view/seoungwugoh",
             "id": 207268157,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-04-03T01:41:53Z",
+            "open_issues": 8,
             "owner": "seoungwugoh",
             "repo": "opn-demo",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -1092,12 +1593,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for paper: Image Inpainting with Learnable Bidirectional Attention Maps (ICCV 2019)",
+            "homepage": null,
             "id": 206510589,
             "language": null,
+            "license": "MIT",
             "last_commit": "2019-11-05T06:49:51Z",
+            "open_issues": 1,
             "owner": "Vious",
             "repo": "LBAM_inpainting",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -1108,12 +1614,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal, CVPRW 2019",
+            "homepage": null,
             "id": 180744534,
             "language": null,
+            "license": null,
             "last_commit": "2019-07-18T01:35:16Z",
+            "open_issues": 2,
             "owner": "amjltc295",
             "repo": "VORNet-Spatio-temporally-Consistent-Video-Inpainting-for-Object-Removal",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         }
@@ -1130,12 +1641,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral",
+            "homepage": "http://jiahuiyu.com/deepfill/",
             "id": 118721409,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-27T08:18:38Z",
+            "open_issues": 76,
             "owner": "JiahuiYu",
             "repo": "generative_inpainting",
-            "stars": 3466
+            "stars": 3466,
+            "topics": [
+              "attention-model",
+              "deep-neural-networks",
+              "deepfill",
+              "generative-adversarial-network",
+              "image-inpainting",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -1146,12 +1669,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image Inpainting via Generative Multi-column Convolutional Neural Networks, NeurIPS2018",
+            "homepage": null,
             "id": 153881508,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-03-01T11:47:57Z",
+            "open_issues": 25,
             "owner": "shepnerd",
             "repo": "inpainting_gmcnn",
-            "stars": 435
+            "stars": 435,
+            "topics": [
+              "deep-learning",
+              "gan",
+              "image-generation",
+              "image-inpainting",
+              "neurips-2018",
+              "pytorch",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -1162,12 +1698,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for Exemplar GANs code and datasets",
+            "homepage": null,
             "id": 113360584,
             "language": "CSS",
+            "license": null,
             "last_commit": "2024-01-30T18:06:39Z",
+            "open_issues": 6,
             "owner": "bdol",
             "repo": "exemplar_gans",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -1178,12 +1719,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shift-Net: Image Inpainting via Deep Feature Rearrangement (ECCV, 2018)",
+            "homepage": "http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhaoyi_Yan_Shift-Net_Image_Inpainting_ECCV_2018_paper.pdf",
             "id": 128764754,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2019-07-25T02:56:28Z",
+            "open_issues": 7,
             "owner": "Zhaoyi-Yan",
             "repo": "Shift-Net",
-            "stars": 101
+            "stars": 101,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -1194,12 +1740,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semantic Image Inpainting with Progressive Generative Networks",
+            "homepage": null,
             "id": 144247869,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-12-07T09:31:18Z",
+            "open_issues": 8,
             "owner": "crashmoon",
             "repo": "Progressive-Generative-Networks",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "image-inpainting",
+              "progressive-generative-networks"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         }
@@ -1216,12 +1770,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis",
+            "homepage": "http://www.harryyang.org/inpainting",
             "id": 80156573,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-05-29T22:01:59Z",
+            "open_issues": 12,
             "owner": "leehomyc",
             "repo": "Faster-High-Res-Neural-Inpainting",
-            "stars": 1286
+            "stars": 1286,
+            "topics": [
+              "deep-learning",
+              "deep-learning-papers",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -1232,12 +1795,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper 'Globally and Locally Consistent Image Completion'. http://iizuka.cs.tsukuba.ac.jp/projects/completion/",
+            "homepage": null,
             "id": 122161099,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2020-09-17T08:12:38Z",
+            "open_issues": 5,
             "owner": "satoshiiizuka",
             "repo": "siggraph2017_inpainting",
-            "stars": 575
+            "stars": 575,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -1248,12 +1816,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The source code of CVPR17 'Generative Face Completion'.",
+            "homepage": null,
             "id": 88316871,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2018-03-19T16:48:44Z",
+            "open_issues": 17,
             "owner": "Yijunmaverick",
             "repo": "GenerativeFaceCompletion",
-            "stars": 317
+            "stars": 317,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -1264,12 +1837,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semantic Image Inpainting",
+            "homepage": null,
             "id": 96634722,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-03-12T05:43:38Z",
+            "open_issues": 2,
             "owner": "moodoki",
             "repo": "semantic_image_inpainting",
-            "stars": 172
+            "stars": 172,
+            "topics": [
+              "dcgan",
+              "deep-learning",
+              "gan",
+              "generative-adversarial-network",
+              "generative-model",
+              "image-processing",
+              "inpaint",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         }
@@ -1286,12 +1873,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2016] Unsupervised Feature Learning by Image Inpainting using GANs",
+            "homepage": "https://www.cs.cmu.edu/~dpathak/context_encoder/",
             "id": 56881233,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2020-07-19T21:37:48Z",
+            "open_issues": 117,
             "owner": "pathak22",
             "repo": "context-encoder",
-            "stars": 907
+            "stars": 907,
+            "topics": [
+              "computer-graphics",
+              "computer-vision",
+              "context-encoders",
+              "dcgan",
+              "deep-learning",
+              "gan",
+              "generative-adversarial-network",
+              "image-inpainting",
+              "machine-learning",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         },
@@ -1302,12 +1905,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the source code of \"Temporally Coherent Completion of Dynamic Video\", ACM Transactions on Graphics (TOG), 2016, from https://filebox.ece.vt.edu/~jbhuang/project/vidcomp/ NOTE: I'm not the author. ",
+            "homepage": null,
             "id": 168270858,
             "language": "MATLAB",
+            "license": null,
             "last_commit": "2019-03-07T01:19:32Z",
+            "open_issues": 0,
             "owner": "amjltc295",
             "repo": "Temporally-Coherent-Completion-of-Dynamic-Video",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "matlab",
+              "video-completion",
+              "video-inpainting"
+            ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         }
@@ -1324,12 +1936,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vectorized implementation of convolutional neural networks (CNN) in Matlab for both visual recognition and image processing.",
+            "homepage": null,
             "id": 43007129,
             "language": "Matlab",
+            "license": "MIT",
             "last_commit": "2016-04-02T09:33:02Z",
+            "open_issues": 1,
             "owner": "jimmy-ren",
             "repo": "vcnn_double-bladed",
-            "stars": 142
+            "stars": 142,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         }
@@ -1346,12 +1963,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image Completion using Planar Structure Guidance (SIGGRAPH 2014)",
+            "homepage": "http://bit.ly/planarcompletion",
             "id": 25012703,
             "language": "Matlab",
+            "license": null,
             "last_commit": "2015-11-30T01:37:18Z",
+            "open_issues": 7,
             "owner": "jbhuang0604",
             "repo": "StructCompletion",
-            "stars": 110
+            "stars": 110,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
         }
@@ -1360,15 +1982,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:35:16.468Z",
+    "last_updated": "2026-08-29T04:23:46.566Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of image inpainting and video inpainting papers and resources",
+      "homepage": null,
       "id": 146686946,
       "language": "Python",
+      "license": null,
       "last_commit": "2026-02-09T13:30:33Z",
+      "open_issues": 6,
       "owner": "zengyh1900",
       "repo": "Awesome-Image-Inpainting",
-      "stars": 2179
+      "stars": 2179,
+      "topics": [
+        "face-completion",
+        "image-inpainting",
+        "paper-list",
+        "video-inpainting"
+      ]
     },
     "original_repository_sha": "96de1852fb3ced75729edb5cc7f04477f4b2445c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Image-Inpainting",
