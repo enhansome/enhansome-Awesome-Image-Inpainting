@@ -46,7 +46,7 @@
             "open_issues": 2,
             "owner": "srk1995",
             "repo": "RAD",
-            "stars": 30,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -197,7 +197,7 @@
             "open_issues": 80,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6919,
+            "stars": 6918,
             "topics": [
               "object-removal",
               "video-completion",
@@ -273,7 +273,7 @@
             "open_issues": 4,
             "owner": "kodenii",
             "repo": "NUWA-LIP",
-            "stars": 40,
+            "stars": 39,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -300,7 +300,7 @@
             "open_issues": 125,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10229,
+            "stars": 10234,
             "topics": [
               "cnn",
               "colab",
@@ -340,7 +340,7 @@
             "open_issues": 48,
             "owner": "andreas128",
             "repo": "RePaint",
-            "stars": 2268,
+            "stars": 2269,
             "topics": [
               "cvpr2022",
               "diffusion-models",
@@ -1113,7 +1113,7 @@
             "open_issues": 87,
             "owner": "ApolloScapeAuto",
             "repo": "dataset-api",
-            "stars": 619,
+            "stars": 618,
             "topics": [
               "3d-car-instance",
               "3d-lidar",
@@ -1982,7 +1982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:05:52.894Z",
+    "last_updated": "2026-08-31T20:13:00.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
