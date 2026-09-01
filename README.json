@@ -197,7 +197,7 @@
             "open_issues": 80,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6918,
+            "stars": 6921,
             "topics": [
               "object-removal",
               "video-completion",
@@ -224,7 +224,7 @@
             "open_issues": 12,
             "owner": "Picsart-AI-Research",
             "repo": "MI-GAN",
-            "stars": 684,
+            "stars": 685,
             "topics": [
               "image-inpainting",
               "knowledge-distillation",
@@ -297,7 +297,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2025-02-05T08:41:52Z",
-            "open_issues": 125,
+            "open_issues": 126,
             "owner": "advimman",
             "repo": "lama",
             "stars": 10234,
@@ -1746,7 +1746,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2018-12-07T09:31:18Z",
-            "open_issues": 8,
+            "open_issues": 7,
             "owner": "crashmoon",
             "repo": "Progressive-Generative-Networks",
             "stars": 65,
@@ -1982,7 +1982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:13:00.051Z",
+    "last_updated": "2026-09-01T17:53:08.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
