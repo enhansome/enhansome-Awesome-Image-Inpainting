@@ -46,7 +46,7 @@
             "open_issues": 2,
             "owner": "srk1995",
             "repo": "RAD",
-            "stars": 31,
+            "stars": 32,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -101,7 +101,7 @@
             "open_issues": 54,
             "owner": "open-mmlab",
             "repo": "PowerPaint",
-            "stars": 1108,
+            "stars": 1109,
             "topics": [
               "aigc",
               "generation",
@@ -197,7 +197,7 @@
             "open_issues": 80,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6921,
+            "stars": 6924,
             "topics": [
               "object-removal",
               "video-completion",
@@ -297,10 +297,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2025-02-05T08:41:52Z",
-            "open_issues": 126,
+            "open_issues": 125,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10234,
+            "stars": 10240,
             "topics": [
               "cnn",
               "colab",
@@ -365,7 +365,7 @@
             "open_issues": 46,
             "owner": "MCG-NKU",
             "repo": "E2FGVI",
-            "stars": 1161,
+            "stars": 1162,
             "topics": [
               "cvpr2022",
               "inpainting",
@@ -1089,7 +1089,7 @@
             "open_issues": 108,
             "owner": "vt-vl-lab",
             "repo": "3d-photo-inpainting",
-            "stars": 7093,
+            "stars": 7092,
             "topics": [
               "3d-photo",
               "novel-view-synthesis"
@@ -1340,7 +1340,7 @@
             "open_issues": 60,
             "owner": "nbei",
             "repo": "Deep-Flow-Guided-Video-Inpainting",
-            "stars": 2375,
+            "stars": 2376,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1746,7 +1746,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2018-12-07T09:31:18Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "crashmoon",
             "repo": "Progressive-Generative-Networks",
             "stars": 65,
@@ -1982,7 +1982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:53:08.902Z",
+    "last_updated": "2026-09-02T17:57:26.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
