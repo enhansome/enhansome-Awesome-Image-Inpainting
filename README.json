@@ -73,7 +73,7 @@
             "open_issues": 56,
             "owner": "TencentARC",
             "repo": "BrushNet",
-            "stars": 1745,
+            "stars": 1744,
             "topics": [
               "diffusion",
               "diffusion-models",
@@ -197,7 +197,7 @@
             "open_issues": 80,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6932,
+            "stars": 6934,
             "topics": [
               "object-removal",
               "video-completion",
@@ -224,7 +224,7 @@
             "open_issues": 12,
             "owner": "Picsart-AI-Research",
             "repo": "MI-GAN",
-            "stars": 685,
+            "stars": 686,
             "topics": [
               "image-inpainting",
               "knowledge-distillation",
@@ -297,10 +297,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2025-02-05T08:41:52Z",
-            "open_issues": 125,
+            "open_issues": 126,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10250,
+            "stars": 10253,
             "topics": [
               "cnn",
               "colab",
@@ -1089,7 +1089,7 @@
             "open_issues": 108,
             "owner": "vt-vl-lab",
             "repo": "3d-photo-inpainting",
-            "stars": 7093,
+            "stars": 7092,
             "topics": [
               "3d-photo",
               "novel-view-synthesis"
@@ -1779,7 +1779,7 @@
             "open_issues": 12,
             "owner": "leehomyc",
             "repo": "Faster-High-Res-Neural-Inpainting",
-            "stars": 1286,
+            "stars": 1285,
             "topics": [
               "deep-learning",
               "deep-learning-papers",
@@ -1982,7 +1982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:47:02.696Z",
+    "last_updated": "2026-09-08T17:57:41.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
