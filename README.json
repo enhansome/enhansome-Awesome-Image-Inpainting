@@ -197,7 +197,7 @@
             "open_issues": 79,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6935,
+            "stars": 6937,
             "topics": [
               "object-removal",
               "video-completion",
@@ -224,7 +224,7 @@
             "open_issues": 12,
             "owner": "Picsart-AI-Research",
             "repo": "MI-GAN",
-            "stars": 687,
+            "stars": 688,
             "topics": [
               "image-inpainting",
               "knowledge-distillation",
@@ -365,7 +365,7 @@
             "open_issues": 46,
             "owner": "MCG-NKU",
             "repo": "E2FGVI",
-            "stars": 1162,
+            "stars": 1163,
             "topics": [
               "cvpr2022",
               "inpainting",
@@ -1068,7 +1068,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8089,
+            "stars": 8090,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1408,7 +1408,7 @@
             "open_issues": 24,
             "owner": "researchmm",
             "repo": "PEN-Net-for-Inpainting",
-            "stars": 359,
+            "stars": 360,
             "topics": [
               "attention",
               "attention-transfer-network",
@@ -1982,7 +1982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:52:48.459Z",
+    "last_updated": "2026-09-10T17:45:38.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
