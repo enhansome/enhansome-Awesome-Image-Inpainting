@@ -101,7 +101,7 @@
             "open_issues": 54,
             "owner": "open-mmlab",
             "repo": "PowerPaint",
-            "stars": 1112,
+            "stars": 1113,
             "topics": [
               "aigc",
               "generation",
@@ -197,7 +197,7 @@
             "open_issues": 79,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6943,
+            "stars": 6945,
             "topics": [
               "object-removal",
               "video-completion",
@@ -220,8 +220,8 @@
             "id": 679286121,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2024-11-12T10:41:30Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-14T11:25:54Z",
+            "open_issues": 11,
             "owner": "Picsart-AI-Research",
             "repo": "MI-GAN",
             "stars": 689,
@@ -300,7 +300,7 @@
             "open_issues": 126,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10258,
+            "stars": 10260,
             "topics": [
               "cnn",
               "colab",
@@ -392,7 +392,7 @@
             "open_issues": 83,
             "owner": "fenglinglwb",
             "repo": "MAT",
-            "stars": 980,
+            "stars": 981,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -410,7 +410,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-02-23T04:21:56Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "DQiaole",
             "repo": "ZITS_inpainting",
             "stars": 395,
@@ -1089,7 +1089,7 @@
             "open_issues": 108,
             "owner": "vt-vl-lab",
             "repo": "3d-photo-inpainting",
-            "stars": 7092,
+            "stars": 7093,
             "topics": [
               "3d-photo",
               "novel-view-synthesis"
@@ -1308,7 +1308,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-02-03T16:03:43Z",
-            "open_issues": 108,
+            "open_issues": 106,
             "owner": "knazeri",
             "repo": "edge-connect",
             "stars": 2620,
@@ -1982,7 +1982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:28:14.559Z",
+    "last_updated": "2026-09-14T19:29:49.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
