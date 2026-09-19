@@ -197,7 +197,7 @@
             "open_issues": 79,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6949,
+            "stars": 6951,
             "topics": [
               "object-removal",
               "video-completion",
@@ -224,7 +224,7 @@
             "open_issues": 11,
             "owner": "Picsart-AI-Research",
             "repo": "MI-GAN",
-            "stars": 692,
+            "stars": 693,
             "topics": [
               "image-inpainting",
               "knowledge-distillation",
@@ -1068,7 +1068,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8092,
+            "stars": 8091,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1290,7 +1290,7 @@
             "open_issues": 45,
             "owner": "run-youngjoo",
             "repo": "SC-FEGAN",
-            "stars": 3329,
+            "stars": 3328,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1982,7 +1982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:44:14.840Z",
+    "last_updated": "2026-09-19T17:20:17.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
