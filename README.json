@@ -197,7 +197,7 @@
             "open_issues": 79,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6949,
+            "stars": 6947,
             "topics": [
               "object-removal",
               "video-completion",
@@ -297,10 +297,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2025-02-05T08:41:52Z",
-            "open_issues": 126,
+            "open_issues": 127,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10268,
+            "stars": 10272,
             "topics": [
               "cnn",
               "colab",
@@ -1982,7 +1982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T17:32:12.517Z",
+    "last_updated": "2026-09-21T19:36:24.462Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
