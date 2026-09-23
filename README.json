@@ -197,7 +197,7 @@
             "open_issues": 79,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6950,
+            "stars": 6952,
             "topics": [
               "object-removal",
               "video-completion",
@@ -300,7 +300,7 @@
             "open_issues": 127,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10276,
+            "stars": 10277,
             "topics": [
               "cnn",
               "colab",
@@ -1089,7 +1089,7 @@
             "open_issues": 108,
             "owner": "vt-vl-lab",
             "repo": "3d-photo-inpainting",
-            "stars": 7093,
+            "stars": 7094,
             "topics": [
               "3d-photo",
               "novel-view-synthesis"
@@ -1311,7 +1311,7 @@
             "open_issues": 106,
             "owner": "knazeri",
             "repo": "edge-connect",
-            "stars": 2620,
+            "stars": 2621,
             "topics": [
               "canny-edge-detection",
               "deep-learning",
@@ -1982,7 +1982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:10:23.663Z",
+    "last_updated": "2026-09-23T18:27:43.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
