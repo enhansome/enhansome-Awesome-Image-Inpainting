@@ -197,7 +197,7 @@
             "open_issues": 79,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6956,
+            "stars": 6959,
             "topics": [
               "object-removal",
               "video-completion",
@@ -224,7 +224,7 @@
             "open_issues": 11,
             "owner": "Picsart-AI-Research",
             "repo": "MI-GAN",
-            "stars": 693,
+            "stars": 694,
             "topics": [
               "image-inpainting",
               "knowledge-distillation",
@@ -300,7 +300,7 @@
             "open_issues": 127,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10278,
+            "stars": 10280,
             "topics": [
               "cnn",
               "colab",
@@ -340,7 +340,7 @@
             "open_issues": 48,
             "owner": "andreas128",
             "repo": "RePaint",
-            "stars": 2270,
+            "stars": 2271,
             "topics": [
               "cvpr2022",
               "diffusion-models",
@@ -392,7 +392,7 @@
             "open_issues": 84,
             "owner": "fenglinglwb",
             "repo": "MAT",
-            "stars": 982,
+            "stars": 983,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -748,7 +748,7 @@
             "open_issues": 28,
             "owner": "raywzy",
             "repo": "ICT",
-            "stars": 329,
+            "stars": 330,
             "topics": [
               "iccv2021",
               "image-completion",
@@ -856,7 +856,7 @@
             "open_issues": 14,
             "owner": "USTC-JialunPeng",
             "repo": "Diverse-Structure-Inpainting",
-            "stars": 187,
+            "stars": 188,
             "topics": [
               "attention",
               "autoregressive-neural-networks",
@@ -1068,7 +1068,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8091,
+            "stars": 8092,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1142,7 +1142,7 @@
             "open_issues": 12,
             "owner": "researchmm",
             "repo": "STTN",
-            "stars": 557,
+            "stars": 558,
             "topics": [
               "completing-videos",
               "spatial-temporal",
@@ -1982,7 +1982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:29:19.960Z",
+    "last_updated": "2026-09-25T18:45:08.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
