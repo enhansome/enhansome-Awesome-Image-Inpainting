@@ -197,7 +197,7 @@
             "open_issues": 79,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6971,
+            "stars": 6977,
             "topics": [
               "object-removal",
               "video-completion",
@@ -300,7 +300,7 @@
             "open_issues": 127,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10282,
+            "stars": 10284,
             "topics": [
               "cnn",
               "colab",
@@ -1650,7 +1650,7 @@
             "open_issues": 76,
             "owner": "JiahuiYu",
             "repo": "generative_inpainting",
-            "stars": 3468,
+            "stars": 3469,
             "topics": [
               "attention-model",
               "deep-neural-networks",
@@ -1982,7 +1982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:30:19.577Z",
+    "last_updated": "2026-09-30T19:30:33.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
