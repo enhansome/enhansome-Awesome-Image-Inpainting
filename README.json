@@ -73,7 +73,7 @@
             "open_issues": 56,
             "owner": "TencentARC",
             "repo": "BrushNet",
-            "stars": 1744,
+            "stars": 1745,
             "topics": [
               "diffusion",
               "diffusion-models",
@@ -197,7 +197,7 @@
             "open_issues": 80,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6979,
+            "stars": 6978,
             "topics": [
               "object-removal",
               "video-completion",
@@ -1434,7 +1434,7 @@
             "open_issues": 7,
             "owner": "amjltc295",
             "repo": "Free-Form-Video-Inpainting",
-            "stars": 344,
+            "stars": 345,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1455,7 +1455,7 @@
             "open_issues": 7,
             "owner": "amjltc295",
             "repo": "Free-Form-Video-Inpainting",
-            "stars": 344,
+            "stars": 345,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1982,7 +1982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:25:37.380Z",
+    "last_updated": "2026-10-03T18:02:04.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
