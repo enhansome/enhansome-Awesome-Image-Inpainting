@@ -300,7 +300,7 @@
             "open_issues": 127,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10288,
+            "stars": 10289,
             "topics": [
               "cnn",
               "colab",
@@ -1982,7 +1982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:02:04.328Z",
+    "last_updated": "2026-10-04T18:13:39.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
