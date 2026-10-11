@@ -194,10 +194,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2025-02-19T12:07:56Z",
-            "open_issues": 80,
+            "open_issues": 81,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6986,
+            "stars": 6989,
             "topics": [
               "object-removal",
               "video-completion",
@@ -1068,7 +1068,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8092,
+            "stars": 8091,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1982,7 +1982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:43:34.997Z",
+    "last_updated": "2026-10-11T19:02:14.725Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
