@@ -1,8 +1,8 @@
 # Awesome-Inpainting-Tech with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,139 | 🐛 105 | 📅 2026-09-02 ![visitors](https://visitor-badge.glitch.me/badge?page_id=1900zyh/Awesome-Image-Inpainting) ![GitHub stars](https://img.shields.io/github/stars/1900zyh/Awesome-Image-Inpainting?color=green)  ![GitHub forks](https://img.shields.io/github/forks/1900zyh/Awesome-Image-Inpainting?color=9cf)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,601 | 🐛 105 | 📅 2026-09-02 ![visitors](https://visitor-badge.glitch.me/badge?page_id=1900zyh/Awesome-Image-Inpainting) ![GitHub stars](https://img.shields.io/github/stars/1900zyh/Awesome-Image-Inpainting?color=green)  ![GitHub forks](https://img.shields.io/github/forks/1900zyh/Awesome-Image-Inpainting?color=9cf)
 
-A curated list of inpainting papers and resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,590 | 🐛 97 | 📅 2024-05-17.
+A curated list of inpainting papers and resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,597 | 🐛 97 | 📅 2024-05-17.
 
 This `README.md` is automatically generated from [`.dev_scripts/collection.csv`](.dev_scripts/collection.csv).
 
@@ -33,8 +33,8 @@ Welcome to pull request to update or correct this collection. 🥰
 
 ## Year 2023
 
-* **ICCV** (video) [ProPainter: Improving Propagation and Transformer for Video Inpainting](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_ProPainter_Improving_Propagation_and_Transformer_for_Video_Inpainting_ICCV_2023_paper.pdf). [\[code\]](https://github.com/sczhou/ProPainter) ⭐ 6,993 | 🐛 81 | 🌐 Python | 📅 2025-02-19  [\[project\]](https://shangchenzhou.com/projects/ProPainter/)
-* **ICCV** (image) [MI-GAN: A Simple Baseline for Image Inpainting on Mobile Devices](https://openaccess.thecvf.com/content/ICCV2023/papers/Sargsyan_MI-GAN_A_Simple_Baseline_for_Image_Inpainting_on_Mobile_Devices_ICCV_2023_paper.pdf). [\[code\]](https://github.com/Picsart-AI-Research/MI-GAN) ⭐ 698 | 🐛 11 | 🌐 Python | 📅 2026-09-14
+* **ICCV** (video) [ProPainter: Improving Propagation and Transformer for Video Inpainting](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_ProPainter_Improving_Propagation_and_Transformer_for_Video_Inpainting_ICCV_2023_paper.pdf). [\[code\]](https://github.com/sczhou/ProPainter) ⭐ 6,995 | 🐛 81 | 🌐 Python | 📅 2025-02-19  [\[project\]](https://shangchenzhou.com/projects/ProPainter/)
+* **ICCV** (image) [MI-GAN: A Simple Baseline for Image Inpainting on Mobile Devices](https://openaccess.thecvf.com/content/ICCV2023/papers/Sargsyan_MI-GAN_A_Simple_Baseline_for_Image_Inpainting_on_Mobile_Devices_ICCV_2023_paper.pdf). [\[code\]](https://github.com/Picsart-AI-Research/MI-GAN) ⭐ 700 | 🐛 11 | 🌐 Python | 📅 2026-09-14
 * **ICCV** (image) [Virtual Try-On with Pose-Garment Keypoints Guided Inpainting](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Virtual_Try-On_with_Pose-Garment_Keypoints_Guided_Inpainting_ICCV_2023_paper.pdf). [\[code\]](https://github.com/lizhi-ntu/KGI) ⭐ 88 | 🐛 10 | 🌐 Python | 📅 2024-01-14
 * **CVPR** (image) [NUWA-LIP: Language-Guided Image Inpainting With Defect-Free VQGAN](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_NUWA-LIP_Language-Guided_Image_Inpainting_With_Defect-Free_VQGAN_CVPR_2023_paper.pdf). [\[code\]](https://github.com/kodenii/NUWA-LIP) ⭐ 39 | 🐛 4 | 🌐 Python | 📅 2023-03-24
 * **ICCV** (image) [Semantic-Aware Dynamic Parameter for Video Inpainting Transformer](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Semantic-Aware_Dynamic_Parameter_for_Video_Inpainting_Transformer_ICCV_2023_paper.pdf).
@@ -46,7 +46,7 @@ Welcome to pull request to update or correct this collection. 🥰
 ## Year 2022
 
 * **WACV** (image) [Resolution-robust Large Mask Inpainting with Fourier Convolutions](https://arxiv.org/pdf/2109.07161). [\[code\]](https://github.com/advimman/lama) ⭐ 10,308 | 🐛 127 | 🌐 Jupyter Notebook | 📅 2025-02-05  [\[project\]](https://advimman.github.io/lama-project/)
-* **CVPR** (image) [RePaint: Inpainting using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2201.09865). [\[code\]](https://github.com/andreas128/RePaint) ⭐ 2,273 | 🐛 48 | 🌐 Python | 📅 2022-08-20
+* **CVPR** (image) [RePaint: Inpainting using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2201.09865). [\[code\]](https://github.com/andreas128/RePaint) ⭐ 2,274 | 🐛 48 | 🌐 Python | 📅 2022-08-20
 * **CVPR** (video) [Towards An End-to-End Framework for Flow-Guided Video Inpainting](https://arxiv.org/abs/2204.02663). [\[code\]](https://github.com/MCG-NKU/E2FGVI) ⭐ 1,163 | 🐛 46 | 🌐 Python | 📅 2023-04-07
 * **CVPR** (image) [MAT: Mask-Aware Transformer for Large Hole Image Inpainting](https://arxiv.org/abs/2203.15270). [\[code\]](https://github.com/fenglinglwb/MAT) ⭐ 984 | 🐛 84 | 🌐 Python | 📅 2024-07-02
 * **CVPR** (image) [Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding](https://arxiv.org/abs/2203.00867). [\[code\]](https://github.com/DQiaole/ZITS_inpainting) ⭐ 395 | 🐛 5 | 🌐 Python | 📅 2024-02-23
@@ -74,7 +74,7 @@ Welcome to pull request to update or correct this collection. 🥰
 * **ICCV** (video) [Internal Video Inpainting by Implicit Long-range Propagation](https://arxiv.org/abs/2108.01912). [\[code\]](https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting) ⭐ 259 | 🐛 8 | 🌐 Python | 📅 2022-06-18  [\[project\]](https://tengfei-wang.github.io/Implicit-Internal-Video-Inpainting/)
 * **ICCV** (image) [CR-Fill: Generative Image Inpainting With Auxiliary Contextual Reconstruction](https://openaccess.thecvf.com/content/ICCV2021/html/Zeng_CR-Fill_Generative_Image_Inpainting_With_Auxiliary_Contextual_Reconstruction_ICCV_2021_paper.html). [\[code\]](https://github.com/zengxianyu/crfill) ⭐ 241 | 🐛 22 | 🌐 Python | 📅 2022-04-12
 * **ICCV** (image) [Image Inpainting via Conditional Texture and Structure Dual Generation](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_Image_Inpainting_via_Conditional_Texture_and_Structure_Dual_Generation_ICCV_2021_paper). [\[code\]](https://github.com/Xiefan-Guo/CTSDG) ⭐ 205 | 🐛 25 | 🌐 Python | 📅 2024-04-04
-* **CVPR** (image) [Generating Diverse Structure for Image Inpainting With Hierarchical VQ-VAE](https://arxiv.org/abs/2103.10022). [\[code\]](https://github.com/USTC-JialunPeng/Diverse-Structure-Inpainting) ⭐ 188 | 🐛 14 | 🌐 Python | 📅 2021-07-11
+* **CVPR** (image) [Generating Diverse Structure for Image Inpainting With Hierarchical VQ-VAE](https://arxiv.org/abs/2103.10022). [\[code\]](https://github.com/USTC-JialunPeng/Diverse-Structure-Inpainting) ⭐ 189 | 🐛 14 | 🌐 Python | 📅 2021-07-11
 * **CVPR** (image) [PD-GAN: Probabilistic Diverse GAN for Image Inpainting](https://arxiv.org/abs/2105.02201). [\[code\]](https://github.com/KumapowerLIU/PD-GAN) ⭐ 148 | 🐛 8 | 🌐 Python | 📅 2022-08-18
 * **ICCV** (video) [FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting](https://arxiv.org/abs/2109.02974). [\[code\]](https://github.com/ruiliu-ai/FuseFormer) ⭐ 122 | 🐛 12 | 🌐 Python | 📅 2021-12-10
 * **CVPR** (image) [Image Inpainting with External-internal Learning and Monochromic Bottleneck](https://arxiv.org/abs/2104.09068). [\[code\]](https://github.com/Tengfei-Wang/external-internal-inpainting) ⭐ 109 | 🐛 2 | 🌐 Python | 📅 2023-01-09  [\[project\]](https://tengfei-wang.github.io/EII/index.html)
@@ -96,7 +96,7 @@ Welcome to pull request to update or correct this collection. 🥰
 
 ## Year 2020
 
-* **IJCV** (image) [Deep Image Prior](https://arxiv.org/abs/1711.10925v4). [\[code\]](https://github.com/DmitryUlyanov/deep-image-prior) ⭐ 8,090 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2023-04-27  [\[project\]](https://dmitryulyanov.github.io/deep_image_prior)
+* **IJCV** (image) [Deep Image Prior](https://arxiv.org/abs/1711.10925v4). [\[code\]](https://github.com/DmitryUlyanov/deep-image-prior) ⭐ 8,091 | 🐛 70 | 🌐 Jupyter Notebook | 📅 2023-04-27  [\[project\]](https://dmitryulyanov.github.io/deep_image_prior)
 * **CVPR** (image) [3D Photography using Context-aware Layered Depth Inpainting](http://openaccess.thecvf.com/content_CVPR_2020/html/Shih_3D_Photography_Using_Context-Aware_Layered_Depth_Inpainting_CVPR_2020_paper). [\[code\]](https://github.com/vt-vl-lab/3d-photo-inpainting) ⭐ 7,092 | 🐛 108 | 🌐 Python | 📅 2024-08-30
 * **ECCV** (video) [DVI: Depth Guided Video Inpainting for Autonomous Driving](https://arxiv.org/abs/2007.08854). [\[project\]](https://github.com/ApolloScapeAuto/dataset-api/tree/master/inpainting) ⭐ 620 | 🐛 87 | 🌐 Jupyter Notebook | 📅 2026-04-04
 * **ECCV** (video) [Learning Joint Spatial-Temporal Transformations for Video Inpainting](https://arxiv.org/abs/2007.10247). [\[project\]](https://github.com/researchmm/STTN) ⭐ 558 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2025-06-18
@@ -119,8 +119,8 @@ Welcome to pull request to update or correct this collection. 🥰
 ## Year 2019
 
 * **Arxiv** (image) [SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color](https://arxiv.org/abs/1902.06838). [\[code\]](https://github.com/JoYoungjoo/SC-FEGAN) ⭐ 3,328 | 🐛 45 | 🌐 Python | 📅 2024-05-20
-* **ICCVW** (image) [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning](http://arxiv.org/abs/1901.00212). [\[code\]](https://github.com/knazeri/edge-connect) ⭐ 2,621 | 🐛 106 | 🌐 Python | 📅 2024-02-03
-* **CVPR** (video) [Deep Flow-Guided Video Inpainting](https://arxiv.org/abs/1905.02884). [\[code\]](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting) ⭐ 2,375 | 🐛 60 | 🌐 Python | 📅 2022-12-08  [\[project\]](https://nbei.github.io/video-inpainting.html)
+* **ICCVW** (image) [EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning](http://arxiv.org/abs/1901.00212). [\[code\]](https://github.com/knazeri/edge-connect) ⭐ 2,622 | 🐛 106 | 🌐 Python | 📅 2024-02-03
+* **CVPR** (video) [Deep Flow-Guided Video Inpainting](https://arxiv.org/abs/1905.02884). [\[code\]](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting) ⭐ 2,376 | 🐛 60 | 🌐 Python | 📅 2022-12-08  [\[project\]](https://nbei.github.io/video-inpainting.html)
 * **CVPR** (image) [Pluralistic Image Completion](https://arxiv.org/abs/1903.04227). [\[code\]](https://github.com/lyndonzheng/Pluralistic-Inpainting) ⭐ 689 | 🐛 10 | 🌐 Python | 📅 2022-07-29  [\[project\]](http://www.chuanxiaz.com/publication/pluralistic/)
 * **CVPR** (video) [Deep Video Inpainting](https://arxiv.org/abs/1905.01639). [\[code\]](https://github.com/mcahny/Deep-Video-Inpainting) ⭐ 523 | 🐛 15 | 🌐 Python | 📅 2020-12-10  [\[project\]](https://sites.google.com/view/deepvinet/)
 * **CVPR** (image) [Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting](https://arxiv.org/abs/1904.07475). [\[code\]](https://github.com/researchmm/PEN-Net-for-Inpainting) ⭐ 360 | 🐛 24 | 🌐 Python | 📅 2021-11-29
@@ -153,7 +153,7 @@ Welcome to pull request to update or correct this collection. 🥰
 
 ## Year 2018
 
-* **CVPR** (image) [Generative image inpainting with contextual attention](https://arxiv.org/abs/1801.07892). [\[code\]](https://github.com/JiahuiYu/generative_inpainting) ⭐ 3,470 | 🐛 76 | 🌐 Python | 📅 2024-06-27  [\[project\]](http://jiahuiyu.com/deepfill/)
+* **CVPR** (image) [Generative image inpainting with contextual attention](https://arxiv.org/abs/1801.07892). [\[code\]](https://github.com/JiahuiYu/generative_inpainting) ⭐ 3,471 | 🐛 76 | 🌐 Python | 📅 2024-06-27  [\[project\]](http://jiahuiyu.com/deepfill/)
 * **NeurIPS** (image) [Image Inpainting via Generative Multi-column Convolutional Neural Networks](https://arxiv.org/abs/1810.08771). [\[code\]](https://github.com/shepnerd/inpainting_gmcnn) ⭐ 435 | 🐛 25 | 🌐 Python | 📅 2022-03-01
 * **CVPR** (image) [Eye in-painting with exemplar generative adversarial networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Dolhansky_Eye_In-Painting_With_CVPR_2018_paper). [\[code\]](https://github.com/bdol/exemplar_gans) ⭐ 114 | 🐛 6 | 🌐 CSS | 📅 2024-01-30  [\[project\]](https://bdol.github.io/exemplar_gans/)
 * **ECCV** (image) [Shift-net: Image inpainting via deep feature rearrangement](https://arxiv.org/abs/1801.09392v2). [\[code\]](https://github.com/Zhaoyi-Yan/Shift-Net) ⭐ 101 | 🐛 7 | 🌐 Lua | 📅 2019-07-25
@@ -174,7 +174,7 @@ Welcome to pull request to update or correct this collection. 🥰
 
 ## Year 2017
 
-* **CVPR** (image) [High-resolution image inpainting using multi-scale neural patch synthesis](https://arxiv.org/abs/1611.09969). [\[code\]](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting) ⭐ 1,285 | 🐛 12 | 🌐 Lua | 📅 2018-05-29
+* **CVPR** (image) [High-resolution image inpainting using multi-scale neural patch synthesis](https://arxiv.org/abs/1611.09969). [\[code\]](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting) ⭐ 1,286 | 🐛 12 | 🌐 Lua | 📅 2018-05-29
 * **TOG** (image) [Globally and locally consistent image completion](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/data/completion_sig2017.pdf). [\[code\]](https://github.com/satoshiiizuka/siggraph2017_inpainting) ⭐ 575 | 🐛 5 | 🌐 Lua | 📅 2020-09-17  [\[project\]](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/)
 * **CVPR** (image) [Generative face completion](http://openaccess.thecvf.com/content_cvpr_2017/html/Li_Generative_Face_Completion_CVPR_2017_paper). [\[code\]](https://github.com/Yijunmaverick/GenerativeFaceCompletion) ⭐ 317 | 🐛 17 | 🌐 C++ | 📅 2018-03-19
 * **CVPR** (image) [Semantic image inpainting with deep generative models](http://openaccess.thecvf.com/content_cvpr_2017/html/Yeh_Semantic_Image_Inpainting_CVPR_2017_paper). [\[code\]](https://github.com/moodoki/semantic_image_inpainting) ⭐ 172 | 🐛 2 | 🌐 Python | 📅 2019-03-12  [\[project\]](http://www.isle.illinois.edu/~yeh17/projects/semantic_inpaint/index.html)
@@ -236,4 +236,4 @@ Welcome to pull request to update or correct this collection. 🥰
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
