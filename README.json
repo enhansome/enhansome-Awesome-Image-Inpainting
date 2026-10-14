@@ -197,7 +197,7 @@
             "open_issues": 81,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6995,
+            "stars": 6996,
             "topics": [
               "object-removal",
               "video-completion",
@@ -224,7 +224,7 @@
             "open_issues": 11,
             "owner": "Picsart-AI-Research",
             "repo": "MI-GAN",
-            "stars": 700,
+            "stars": 701,
             "topics": [
               "image-inpainting",
               "knowledge-distillation",
@@ -300,7 +300,7 @@
             "open_issues": 127,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10308,
+            "stars": 10312,
             "topics": [
               "cnn",
               "colab",
@@ -340,7 +340,7 @@
             "open_issues": 48,
             "owner": "andreas128",
             "repo": "RePaint",
-            "stars": 2274,
+            "stars": 2275,
             "topics": [
               "cvpr2022",
               "diffusion-models",
@@ -1089,7 +1089,7 @@
             "open_issues": 108,
             "owner": "vt-vl-lab",
             "repo": "3d-photo-inpainting",
-            "stars": 7092,
+            "stars": 7094,
             "topics": [
               "3d-photo",
               "novel-view-synthesis"
@@ -1113,7 +1113,7 @@
             "open_issues": 87,
             "owner": "ApolloScapeAuto",
             "repo": "dataset-api",
-            "stars": 620,
+            "stars": 621,
             "topics": [
               "3d-car-instance",
               "3d-lidar",
@@ -1290,7 +1290,7 @@
             "open_issues": 45,
             "owner": "run-youngjoo",
             "repo": "SC-FEGAN",
-            "stars": 3328,
+            "stars": 3329,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1982,7 +1982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:17:14.372Z",
+    "last_updated": "2026-10-14T18:44:42.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
