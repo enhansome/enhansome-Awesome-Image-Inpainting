@@ -73,7 +73,7 @@
             "open_issues": 56,
             "owner": "TencentARC",
             "repo": "BrushNet",
-            "stars": 1745,
+            "stars": 1746,
             "topics": [
               "diffusion",
               "diffusion-models",
@@ -197,7 +197,7 @@
             "open_issues": 81,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 6996,
+            "stars": 7001,
             "topics": [
               "object-removal",
               "video-completion",
@@ -224,7 +224,7 @@
             "open_issues": 11,
             "owner": "Picsart-AI-Research",
             "repo": "MI-GAN",
-            "stars": 701,
+            "stars": 699,
             "topics": [
               "image-inpainting",
               "knowledge-distillation",
@@ -300,7 +300,7 @@
             "open_issues": 127,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10312,
+            "stars": 10315,
             "topics": [
               "cnn",
               "colab",
@@ -1068,7 +1068,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8091,
+            "stars": 8092,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1089,7 +1089,7 @@
             "open_issues": 108,
             "owner": "vt-vl-lab",
             "repo": "3d-photo-inpainting",
-            "stars": 7094,
+            "stars": 7095,
             "topics": [
               "3d-photo",
               "novel-view-synthesis"
@@ -1982,7 +1982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T18:44:42.221Z",
+    "last_updated": "2026-10-15T18:25:06.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
