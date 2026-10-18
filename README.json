@@ -101,7 +101,7 @@
             "open_issues": 54,
             "owner": "open-mmlab",
             "repo": "PowerPaint",
-            "stars": 1119,
+            "stars": 1120,
             "topics": [
               "aigc",
               "generation",
@@ -300,7 +300,7 @@
             "open_issues": 127,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10319,
+            "stars": 10321,
             "topics": [
               "cnn",
               "colab",
@@ -340,7 +340,7 @@
             "open_issues": 48,
             "owner": "andreas128",
             "repo": "RePaint",
-            "stars": 2276,
+            "stars": 2275,
             "topics": [
               "cvpr2022",
               "diffusion-models",
@@ -365,7 +365,7 @@
             "open_issues": 46,
             "owner": "MCG-NKU",
             "repo": "E2FGVI",
-            "stars": 1163,
+            "stars": 1164,
             "topics": [
               "cvpr2022",
               "inpainting",
@@ -1068,7 +1068,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8093,
+            "stars": 8094,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1982,7 +1982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:21:25.659Z",
+    "last_updated": "2026-10-18T17:26:16.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
