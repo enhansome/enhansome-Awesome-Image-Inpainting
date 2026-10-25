@@ -73,7 +73,7 @@
             "open_issues": 56,
             "owner": "TencentARC",
             "repo": "BrushNet",
-            "stars": 1746,
+            "stars": 1747,
             "topics": [
               "diffusion",
               "diffusion-models",
@@ -197,7 +197,7 @@
             "open_issues": 81,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 7016,
+            "stars": 7019,
             "topics": [
               "object-removal",
               "video-completion",
@@ -300,7 +300,7 @@
             "open_issues": 127,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10344,
+            "stars": 10345,
             "topics": [
               "cnn",
               "colab",
@@ -1982,7 +1982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:29:52.849Z",
+    "last_updated": "2026-10-25T17:42:15.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
