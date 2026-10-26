@@ -101,7 +101,7 @@
             "open_issues": 54,
             "owner": "open-mmlab",
             "repo": "PowerPaint",
-            "stars": 1120,
+            "stars": 1121,
             "topics": [
               "aigc",
               "generation",
@@ -197,7 +197,7 @@
             "open_issues": 81,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 7019,
+            "stars": 7020,
             "topics": [
               "object-removal",
               "video-completion",
@@ -300,7 +300,7 @@
             "open_issues": 127,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10345,
+            "stars": 10347,
             "topics": [
               "cnn",
               "colab",
@@ -1068,7 +1068,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8094,
+            "stars": 8092,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1089,7 +1089,7 @@
             "open_issues": 108,
             "owner": "vt-vl-lab",
             "repo": "3d-photo-inpainting",
-            "stars": 7100,
+            "stars": 7099,
             "topics": [
               "3d-photo",
               "novel-view-synthesis"
@@ -1142,7 +1142,7 @@
             "open_issues": 12,
             "owner": "researchmm",
             "repo": "STTN",
-            "stars": 558,
+            "stars": 559,
             "topics": [
               "completing-videos",
               "spatial-temporal",
@@ -1290,7 +1290,7 @@
             "open_issues": 45,
             "owner": "run-youngjoo",
             "repo": "SC-FEGAN",
-            "stars": 3330,
+            "stars": 3331,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1982,7 +1982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:42:15.558Z",
+    "last_updated": "2026-10-26T20:01:04.735Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
