@@ -73,7 +73,7 @@
             "open_issues": 56,
             "owner": "TencentARC",
             "repo": "BrushNet",
-            "stars": 1748,
+            "stars": 1749,
             "topics": [
               "diffusion",
               "diffusion-models",
@@ -197,7 +197,7 @@
             "open_issues": 81,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 7025,
+            "stars": 7026,
             "topics": [
               "object-removal",
               "video-completion",
@@ -300,7 +300,7 @@
             "open_issues": 127,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10350,
+            "stars": 10349,
             "topics": [
               "cnn",
               "colab",
@@ -365,7 +365,7 @@
             "open_issues": 46,
             "owner": "MCG-NKU",
             "repo": "E2FGVI",
-            "stars": 1165,
+            "stars": 1167,
             "topics": [
               "cvpr2022",
               "inpainting",
@@ -1068,7 +1068,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8093,
+            "stars": 8092,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1089,7 +1089,7 @@
             "open_issues": 108,
             "owner": "vt-vl-lab",
             "repo": "3d-photo-inpainting",
-            "stars": 7099,
+            "stars": 7100,
             "topics": [
               "3d-photo",
               "novel-view-synthesis"
@@ -1471,8 +1471,8 @@
             "homepage": null,
             "id": 195164738,
             "language": "Python",
-            "license": null,
-            "last_commit": "2026-10-20T16:16:14Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-29T06:58:26Z",
             "open_issues": 31,
             "owner": "KumapowerLIU",
             "repo": "CSA-inpainting",
@@ -1481,8 +1481,7 @@
               "attention-mechanism",
               "generative-adversarial-network",
               "iccv2019",
-              "image-inpainting",
-              "jupyter-notebook"
+              "image-inpainting"
             ]
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1982,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T19:41:17.914Z",
+    "last_updated": "2026-10-29T19:44:08.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
