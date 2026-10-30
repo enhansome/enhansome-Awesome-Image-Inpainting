@@ -73,7 +73,7 @@
             "open_issues": 56,
             "owner": "TencentARC",
             "repo": "BrushNet",
-            "stars": 1749,
+            "stars": 1750,
             "topics": [
               "diffusion",
               "diffusion-models",
@@ -101,7 +101,7 @@
             "open_issues": 54,
             "owner": "open-mmlab",
             "repo": "PowerPaint",
-            "stars": 1121,
+            "stars": 1122,
             "topics": [
               "aigc",
               "generation",
@@ -197,7 +197,7 @@
             "open_issues": 81,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 7026,
+            "stars": 7027,
             "topics": [
               "object-removal",
               "video-completion",
@@ -1068,7 +1068,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8092,
+            "stars": 8094,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1290,7 +1290,7 @@
             "open_issues": 45,
             "owner": "run-youngjoo",
             "repo": "SC-FEGAN",
-            "stars": 3330,
+            "stars": 3331,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1340,7 +1340,7 @@
             "open_issues": 60,
             "owner": "nbei",
             "repo": "Deep-Flow-Guided-Video-Inpainting",
-            "stars": 2376,
+            "stars": 2375,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1467,7 +1467,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Coherent Semantic Attention for image inpainting(ICCV 2019)",
+            "description": "[ICCV'19] Coherent Semantic Attention for image inpainting",
             "homepage": null,
             "id": 195164738,
             "language": "Python",
@@ -1649,7 +1649,7 @@
             "open_issues": 76,
             "owner": "JiahuiYu",
             "repo": "generative_inpainting",
-            "stars": 3471,
+            "stars": 3470,
             "topics": [
               "attention-model",
               "deep-neural-networks",
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:44:08.706Z",
+    "last_updated": "2026-10-30T19:30:50.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
@@ -1993,7 +1993,7 @@
       "open_issues": 6,
       "owner": "zengyh1900",
       "repo": "Awesome-Image-Inpainting",
-      "stars": 2182,
+      "stars": 2183,
       "topics": [
         "face-completion",
         "image-inpainting",
