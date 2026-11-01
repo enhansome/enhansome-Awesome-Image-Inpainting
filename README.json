@@ -197,7 +197,7 @@
             "open_issues": 81,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 7029,
+            "stars": 7030,
             "topics": [
               "object-removal",
               "video-completion",
@@ -1159,12 +1159,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Rethinking Image Inpainting via a Mutual Encoder Decoder with Feature Equalizations. ECCV 2020 Oral",
+            "description": "[ECCV'20,Oral] Rethinking Image Inpainting via a Mutual Encoder Decoder with Feature Equalizations.",
             "homepage": null,
             "id": 277328886,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2021-04-03T07:32:44Z",
+            "last_commit": "2026-11-01T05:24:28Z",
             "open_issues": 28,
             "owner": "KumapowerLIU",
             "repo": "Rethinking-Inpainting-MEDFE",
@@ -1472,7 +1472,7 @@
             "id": 195164738,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T06:58:26Z",
+            "last_commit": "2026-11-01T05:24:19Z",
             "open_issues": 31,
             "owner": "KumapowerLIU",
             "repo": "CSA-inpainting",
@@ -1944,7 +1944,7 @@
             "open_issues": 1,
             "owner": "jimmy-ren",
             "repo": "vcnn_double-bladed",
-            "stars": 142,
+            "stars": 140,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T18:39:31.547Z",
+    "last_updated": "2026-11-01T19:00:09.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
