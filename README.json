@@ -46,7 +46,7 @@
             "open_issues": 2,
             "owner": "srk1995",
             "repo": "RAD",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -101,7 +101,7 @@
             "open_issues": 54,
             "owner": "open-mmlab",
             "repo": "PowerPaint",
-            "stars": 1123,
+            "stars": 1122,
             "topics": [
               "aigc",
               "generation",
@@ -197,7 +197,7 @@
             "open_issues": 81,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 7032,
+            "stars": 7033,
             "topics": [
               "object-removal",
               "video-completion",
@@ -300,7 +300,7 @@
             "open_issues": 127,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10354,
+            "stars": 10357,
             "topics": [
               "cnn",
               "colab",
@@ -1089,7 +1089,7 @@
             "open_issues": 108,
             "owner": "vt-vl-lab",
             "repo": "3d-photo-inpainting",
-            "stars": 7101,
+            "stars": 7100,
             "topics": [
               "3d-photo",
               "novel-view-synthesis"
@@ -1113,7 +1113,7 @@
             "open_issues": 88,
             "owner": "ApolloScapeAuto",
             "repo": "dataset-api",
-            "stars": 621,
+            "stars": 620,
             "topics": [
               "3d-car-instance",
               "3d-lidar",
@@ -1778,7 +1778,7 @@
             "open_issues": 12,
             "owner": "leehomyc",
             "repo": "Faster-High-Res-Neural-Inpainting",
-            "stars": 1286,
+            "stars": 1287,
             "topics": [
               "deep-learning",
               "deep-learning-papers",
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:49:46.696Z",
+    "last_updated": "2026-11-03T20:32:31.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
@@ -1993,7 +1993,7 @@
       "open_issues": 6,
       "owner": "zengyh1900",
       "repo": "Awesome-Image-Inpainting",
-      "stars": 2183,
+      "stars": 2184,
       "topics": [
         "face-completion",
         "image-inpainting",
