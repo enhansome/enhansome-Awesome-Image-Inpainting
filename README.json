@@ -197,7 +197,7 @@
             "open_issues": 81,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 7033,
+            "stars": 7038,
             "topics": [
               "object-removal",
               "video-completion",
@@ -300,7 +300,7 @@
             "open_issues": 127,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10357,
+            "stars": 10358,
             "topics": [
               "cnn",
               "colab",
@@ -775,7 +775,7 @@
             "open_issues": 8,
             "owner": "Tengfei-Wang",
             "repo": "Implicit-Internal-Video-Inpainting",
-            "stars": 259,
+            "stars": 258,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1089,7 +1089,7 @@
             "open_issues": 108,
             "owner": "vt-vl-lab",
             "repo": "3d-photo-inpainting",
-            "stars": 7100,
+            "stars": 7099,
             "topics": [
               "3d-photo",
               "novel-view-synthesis"
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:32:31.899Z",
+    "last_updated": "2026-11-04T20:51:34.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
@@ -1993,7 +1993,7 @@
       "open_issues": 6,
       "owner": "zengyh1900",
       "repo": "Awesome-Image-Inpainting",
-      "stars": 2184,
+      "stars": 2185,
       "topics": [
         "face-completion",
         "image-inpainting",
