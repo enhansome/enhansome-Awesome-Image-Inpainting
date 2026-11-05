@@ -101,7 +101,7 @@
             "open_issues": 54,
             "owner": "open-mmlab",
             "repo": "PowerPaint",
-            "stars": 1122,
+            "stars": 1123,
             "topics": [
               "aigc",
               "generation",
@@ -197,7 +197,7 @@
             "open_issues": 81,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 7038,
+            "stars": 7040,
             "topics": [
               "object-removal",
               "video-completion",
@@ -300,7 +300,7 @@
             "open_issues": 127,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10358,
+            "stars": 10360,
             "topics": [
               "cnn",
               "colab",
@@ -365,7 +365,7 @@
             "open_issues": 46,
             "owner": "MCG-NKU",
             "repo": "E2FGVI",
-            "stars": 1167,
+            "stars": 1168,
             "topics": [
               "cvpr2022",
               "inpainting",
@@ -1142,7 +1142,7 @@
             "open_issues": 12,
             "owner": "researchmm",
             "repo": "STTN",
-            "stars": 559,
+            "stars": 560,
             "topics": [
               "completing-videos",
               "spatial-temporal",
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:51:34.741Z",
+    "last_updated": "2026-11-05T21:08:15.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
