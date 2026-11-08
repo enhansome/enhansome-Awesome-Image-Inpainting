@@ -125,7 +125,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2024-04-17T02:36:18Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "jianzongwu",
             "repo": "Language-Driven-Video-Inpainting",
             "stars": 99,
@@ -197,7 +197,7 @@
             "open_issues": 81,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 7048,
+            "stars": 7049,
             "topics": [
               "object-removal",
               "video-completion",
@@ -300,7 +300,7 @@
             "open_issues": 127,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10367,
+            "stars": 10366,
             "topics": [
               "cnn",
               "colab",
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:55:09.582Z",
+    "last_updated": "2026-11-08T18:54:19.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
