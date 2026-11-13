@@ -224,7 +224,7 @@
             "open_issues": 11,
             "owner": "Picsart-AI-Research",
             "repo": "MI-GAN",
-            "stars": 707,
+            "stars": 709,
             "topics": [
               "image-inpainting",
               "knowledge-distillation",
@@ -297,10 +297,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2025-02-05T08:41:52Z",
-            "open_issues": 128,
+            "open_issues": 129,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10385,
+            "stars": 10387,
             "topics": [
               "cnn",
               "colab",
@@ -392,7 +392,7 @@
             "open_issues": 85,
             "owner": "fenglinglwb",
             "repo": "MAT",
-            "stars": 984,
+            "stars": 985,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1068,7 +1068,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8094,
+            "stars": 8095,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1089,7 +1089,7 @@
             "open_issues": 108,
             "owner": "vt-vl-lab",
             "repo": "3d-photo-inpainting",
-            "stars": 7102,
+            "stars": 7101,
             "topics": [
               "3d-photo",
               "novel-view-synthesis"
@@ -1290,7 +1290,7 @@
             "open_issues": 45,
             "owner": "run-youngjoo",
             "repo": "SC-FEGAN",
-            "stars": 3330,
+            "stars": 3329,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1649,7 +1649,7 @@
             "open_issues": 76,
             "owner": "JiahuiYu",
             "repo": "generative_inpainting",
-            "stars": 3469,
+            "stars": 3470,
             "topics": [
               "attention-model",
               "deep-neural-networks",
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:30:04.836Z",
+    "last_updated": "2026-11-13T20:55:59.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
@@ -1993,7 +1993,7 @@
       "open_issues": 6,
       "owner": "zengyh1900",
       "repo": "Awesome-Image-Inpainting",
-      "stars": 2186,
+      "stars": 2187,
       "topics": [
         "face-completion",
         "image-inpainting",
