@@ -197,7 +197,7 @@
             "open_issues": 84,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 7090,
+            "stars": 7094,
             "topics": [
               "object-removal",
               "video-completion",
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:36:15.606Z",
+    "last_updated": "2026-11-22T20:46:10.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
