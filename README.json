@@ -197,7 +197,7 @@
             "open_issues": 84,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 7095,
+            "stars": 7096,
             "topics": [
               "object-removal",
               "video-completion",
@@ -224,7 +224,7 @@
             "open_issues": 11,
             "owner": "Picsart-AI-Research",
             "repo": "MI-GAN",
-            "stars": 714,
+            "stars": 715,
             "topics": [
               "image-inpainting",
               "knowledge-distillation",
@@ -297,10 +297,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2025-02-05T08:41:52Z",
-            "open_issues": 130,
+            "open_issues": 131,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10410,
+            "stars": 10412,
             "topics": [
               "cnn",
               "colab",
@@ -719,7 +719,7 @@
             "open_issues": 47,
             "owner": "zsyzzsoft",
             "repo": "co-mod-gan",
-            "stars": 474,
+            "stars": 475,
             "topics": [
               "gans",
               "generative-adversarial-network",
@@ -775,7 +775,7 @@
             "open_issues": 8,
             "owner": "Tengfei-Wang",
             "repo": "Implicit-Internal-Video-Inpainting",
-            "stars": 258,
+            "stars": 259,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1068,7 +1068,7 @@
             "open_issues": 70,
             "owner": "DmitryUlyanov",
             "repo": "deep-image-prior",
-            "stars": 8093,
+            "stars": 8094,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1089,7 +1089,7 @@
             "open_issues": 108,
             "owner": "vt-vl-lab",
             "repo": "3d-photo-inpainting",
-            "stars": 7105,
+            "stars": 7106,
             "topics": [
               "3d-photo",
               "novel-view-synthesis"
@@ -1311,7 +1311,7 @@
             "open_issues": 106,
             "owner": "knazeri",
             "repo": "edge-connect",
-            "stars": 2623,
+            "stars": 2624,
             "topics": [
               "canny-edge-detection",
               "deep-learning",
@@ -1340,7 +1340,7 @@
             "open_issues": 60,
             "owner": "nbei",
             "repo": "Deep-Flow-Guided-Video-Inpainting",
-            "stars": 2374,
+            "stars": 2373,
             "topics": []
           },
           "first_seen": "2026-08-28T23:35:16.468Z"
@@ -1873,11 +1873,11 @@
           "repo_info": {
             "archived": false,
             "description": "[CVPR 2016] Unsupervised Feature Learning by Image Inpainting using GANs",
-            "homepage": "https://www.cs.cmu.edu/~dpathak/context_encoder/",
+            "homepage": "https://pathak22.github.io/context-encoder/",
             "id": 56881233,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2020-07-19T21:37:48Z",
+            "last_commit": "2026-11-24T19:10:41Z",
             "open_issues": 117,
             "owner": "pathak22",
             "repo": "context-encoder",
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T01:44:54.894Z",
+    "last_updated": "2026-11-24T23:33:03.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
