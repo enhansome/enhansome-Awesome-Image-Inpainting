@@ -197,7 +197,7 @@
             "open_issues": 84,
             "owner": "sczhou",
             "repo": "ProPainter",
-            "stars": 7096,
+            "stars": 7100,
             "topics": [
               "object-removal",
               "video-completion",
@@ -300,7 +300,7 @@
             "open_issues": 131,
             "owner": "advimman",
             "repo": "lama",
-            "stars": 10412,
+            "stars": 10416,
             "topics": [
               "cnn",
               "colab",
@@ -340,7 +340,7 @@
             "open_issues": 48,
             "owner": "andreas128",
             "repo": "RePaint",
-            "stars": 2277,
+            "stars": 2278,
             "topics": [
               "cvpr2022",
               "diffusion-models",
@@ -1778,7 +1778,7 @@
             "open_issues": 12,
             "owner": "leehomyc",
             "repo": "Faster-High-Res-Neural-Inpainting",
-            "stars": 1284,
+            "stars": 1283,
             "topics": [
               "deep-learning",
               "deep-learning-papers",
@@ -1981,7 +1981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:33:03.223Z",
+    "last_updated": "2026-11-25T23:10:20.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of image inpainting and video inpainting papers and resources",
